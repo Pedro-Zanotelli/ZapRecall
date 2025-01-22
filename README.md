@@ -19,13 +19,17 @@ O ZapRecall é um app de flashcards. Flashcards são cartões de estudos que con
 
 ## Tecnologias Utilizadas
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)  Biblioteca JavaScript para criação de interfaces de usuário.  
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+  Biblioteca JavaScript para criação de interfaces de usuário.  
 
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)  Ferramenta de build rápida para projetos modernos.
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+  Ferramenta de build rápida para projetos modernos.
 
-- ![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?logo=styled-components&logoColor=white&style=flat-square)  Biblioteca para estilização dinâmica em aplicações React. 
+- ![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?logo=styled-components&logoColor=white&style=flat-square)
+  Biblioteca para estilização dinâmica em aplicações React. 
 
-- ![JSX](https://img.shields.io/badge/-JSX-61DAFB?logo=react&logoColor=white&style=flat-square) Extensão de sintaxe JavaScript usada com React para criar elementos de interface de usuário.  
+- ![JSX](https://img.shields.io/badge/-JSX-61DAFB?logo=react&logoColor=white&style=flat-square)
+  Extensão de sintaxe JavaScript usada com React para criar elementos de interface de usuário.  
 
 ## Estrutura do Projeto
 
